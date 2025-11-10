@@ -70,7 +70,7 @@ crypto-chart/
 ## 🔗 Deployment on Vercel
 
 The project is ready to deploy on **Vercel**.
-[Open Demo](https://crypto-chart.vercel.app)
+[Open Demo](https://crypto-chart-mu.vercel.app/)
 
 ---
 
